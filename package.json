@@ -69,7 +69,7 @@
     "utf8": "^3.0.0",
     "util": "^0.10.4",
     "vm-browserify": "0.0.4",
-    "web3-core-helpers": "^1.2.6"
+    "web3-core-helpers": "^1.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
