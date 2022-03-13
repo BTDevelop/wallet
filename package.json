@@ -53,7 +53,7 @@
     "react-native-qrcode-scanner": "^1.4.0",
     "react-native-qrcode-svg": "^6.0.6",
     "react-native-randombytes": "^3.5.3",
-    "react-native-share": "^3.3.2",
+    "react-native-share": "^3.8.5",
     "react-native-svg": "9.13.3",
     "react-native-tcp": "^3.3.2",
     "react-native-udp": "^2.7.0",
